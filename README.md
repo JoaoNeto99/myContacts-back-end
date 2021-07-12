@@ -14,7 +14,7 @@
 - [x] Listar Categorias
 - [x] Criar Categorias
 
-Acesse as rotas com <a href=""><img src="https://img.shields.io/static/v1?label=&message=Insomnia&color=5849BE&style=for-the-badge&logo=Insomnia"/></a>
+<a href=""><img src="https://img.shields.io/static/v1?label=&message=Insomnia&color=5849BE&style=for-the-badge&logo=Insomnia"/></a>
 
 ## Pré-requisitos
 
